@@ -1,3 +1,4 @@
+/*Author: Arica Chakraborty*/
 package simpleGa;
 
 public class Algorithm {
